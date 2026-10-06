@@ -1,11 +1,12 @@
 <div align="center">
     
-# 🚀 LeetCode Daily Solutions in C++
+# 🚀 100 LeetCode Problems Solutions in C++
 
-### Solving LeetCode Daily Challenges • Mastering DSA • Building Consistency
+### Solving Random LeetCode Problems • Mastering DSA • Building Consistency
 
 <p>
-This repository documents my daily problem-solving journey, interview preparation, and Data Structures & Algorithms practice.
+This repository contains my solutions to 100 randomly selected LeetCode problems,
+covering different Data Structures & Algorithms concepts and difficulty levels.
 </p>
 
 <br>
@@ -36,11 +37,11 @@ This repository documents my daily problem-solving journey, interview preparatio
 
 ### 📌 About This Repository
 
-This repository contains my solutions to LeetCode Daily Challenges written in **C++**.
+This repository contains my solutions to **100 randomly selected LeetCode problems** written in **C++**.
 
 **Each solution includes:** Clean and readable code, Problem classification, Time Complexity analysis, Space Complexity analysis, Optimized approaches whenever possible.
 
-**The goal of this repository is to:** Master Data Structures & Algorithms, Improve problem-solving skills, Prepare for coding interviews, Maintain coding consistency, Build a structured revision resource.
+**The goal of this repository is to:** Master Data Structures & Algorithms, Improve problem-solving skills, Prepare for coding interviews, Practice different DSA patterns, and Build a structured revision resource.
 
 ---
 
@@ -60,7 +61,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 ---
 
-# 🔥 LeetCode Daily Challenge Solutions
+# 🔥 100 LeetCode Problems Solutions
 
 | Problem No. | Problem                                                                                                                                 | Category               | Difficulty | Time             | Space       | Solution                                                                       |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---------- | ---------------- | ----------- | ------------------------------------------------------------------------------ |
@@ -166,11 +167,11 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 
 # 🎯 Goals
 
-* Solve LeetCode Daily Challenges consistently
+* Solve 100 LeetCode problems
 * Master DSA patterns
 * Improve coding efficiency
 * Strengthen interview preparation
-* Reach 500+ solved problems
+* Build a strong LeetCode portfolio
 
 ---
 
