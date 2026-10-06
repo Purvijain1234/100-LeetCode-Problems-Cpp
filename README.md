@@ -52,9 +52,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | ---------- | ------ |
 | 🟢 Easy    | 35    |
 | 🟡 Medium  | 44    |
-| 🔴 Hard    | 19    |
+| 🔴 Hard    | 20    |
 
-**Total Problems Solved: 98**
+**Total Problems Solved: 99**
 
 </div>
 
@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 66          | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     | Array, Math            | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0066_Plus_One.cpp)                                           |
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | String, Dynamic Programming | Hard | O(m × n) | O(n) | [C++](./1-1000/115_Distinct_Subsequences.cpp) |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Array, Binary Search | Hard | O(log n) average, O(n) worst | O(1) | [C++](./0001-1000/0154_Find_Minimum_in_Rotated_Sorted_Array_II.cpp) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Dynamic Programming, Game Theory, Array | Medium | O(n²) | O(n²) | [C++](./0001-1000/0486_Predict_the_Winner.cpp) |
 | 566         | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)                                                                 | Matrix, Array          | Easy       | O(m×n)           | O(r×c)      | [C++](./0001-1000/0566_Reshape_the_Matrix.cpp)                                 |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Array, Math, Greedy | Easy | O(n) | O(1) | [C++](./0001-1000/0628_Maximum_Product_of_Three_Numbers.cpp) |
