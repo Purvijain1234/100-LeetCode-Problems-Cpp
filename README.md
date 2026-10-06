@@ -52,9 +52,9 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | ---------- | ------ |
 | 🟢 Easy    | 35    |
 | 🟡 Medium  | 44    |
-| 🔴 Hard    | 18    |
+| 🔴 Hard    | 19    |
 
-**Total Problems Solved: 97**
+**Total Problems Solved: 98**
 
 </div>
 
@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 26          | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                               | Array, Two Pointers    | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp)                |
 | 27          | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                         | Array, Two Pointers    | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0027_Remove_Element.cpp)                                     |
 | 28          | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | String, Two Pointers   | Easy       | O((n-m+1)×m)     | O(1)        | [C++](./0001-1000/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | String, Stack | Hard | O(n) | O(n) | [C++](./0001-1000/0032_Longest_Valid_Parentheses.cpp) |
 | 33          | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                         | Array, Binary Search   | Medium     | O(log n)         | O(1)        | [C++](./0001-1000/0033_Search_in_Rotated_Sorted_Array.cpp)                     |
 | 66          | [Plus One](https://leetcode.com/problems/plus-one/)                                                                                     | Array, Math            | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0066_Plus_One.cpp)                                           |
 | 69          | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                         | Math, Binary Search    | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0069_Sqrt_x.cpp)                                             |
