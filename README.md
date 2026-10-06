@@ -54,7 +54,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 🟡 Medium  | 44    |
 | 🔴 Hard    | 18    |
 
-**Total Problems Solved: 96**
+**Total Problems Solved: 97**
 
 </div>
 
@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode Daily Challenges written in **
 | 9           | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                   | Math                   | Easy       | O(log n)         | O(1)        | [C++](./0001-1000/0009_Palindrome_Number.cpp)                                  |
 | 13          | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                                     | String, Math           | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0013_Roman_to_Integer.cpp)                                   |
 | 14          | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                           | String                 | Easy       | O(n × m)         | O(1)        | [C++](./0001-1000/0014_Longest_Common_Prefix.cpp)                              |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | String, Stack | Easy | O(n) | O(n) | [C++](./0001-1000/0020_Valid_Parentheses.cpp) |
 | 21          | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                         | Linked List            | Easy       | O(n+m)           | O(1)        | [C++](./0001-1000/0021_Merge_Two_Sorted_Lists.cpp)                             |
 | 26          | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                               | Array, Two Pointers    | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0026_Remove_Duplicates_from_Sorted_Array.cpp)                |
 | 27          | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                         | Array, Two Pointers    | Easy       | O(n)             | O(1)        | [C++](./0001-1000/0027_Remove_Element.cpp)                                     |
